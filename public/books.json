@@ -1,0 +1,204 @@
+
+[   
+    {
+    "id": 1,
+    "title": "Responsive design with Bootstrap",
+    "author": "Jesse James Garrett",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "UX",
+    "price": 25
+    },
+    {
+    "id": 2,
+    "title": "HTML - an introduction",
+    "author": "Jeremy Keith",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "HTML",
+    "price": 18
+    },
+    {
+    "id": 3,
+    "title": "CSS - an introduction",
+    "author": "Eric A. Meyer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "CSS",
+    "price": 29
+    },
+    {
+    "id": 4,
+    "title": "JavaScript - an introduction",
+    "author": "Douglas Crockford",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "JavaScript",
+    "price": 32
+    },
+    {
+    "id": 5,
+    "title": "Don't Make Me Think",
+    "author": "Steve Krug",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "UX",
+    "price": 22
+    },
+    {
+    "id": 6,
+    "title": "HTML and CSS: Design and Build Websites",
+    "author": "Jon Duckett",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "HTML",
+    "price": 27
+    },
+    {
+    "id": 7,
+    "title": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
+    "author": "Lea Verou",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "CSS",
+    "price": 34
+    },
+    {
+    "id": 8,
+    "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "category": "JavaScript",
+    "price": 59
+    },
+    {
+    "id": 9,
+    "title": "Introduction to UX Design",
+    "author": "John Doe",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et felis malesuada, malesuada dui eu, lacinia mauris. Suspendisse bibendum ullamcorper ex at luctus.",
+    "category": "UX",
+    "price": 50
+    },
+    {
+    "id": 10,
+    "title": "HTML5 Fundamentals",
+    "author": "Jane Smith",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat odio eu tortor bibendum ultrices. Mauris vulputate nisi eget aliquam fermentum.",
+    "category": "HTML",
+    "price": 30
+    },
+    {
+    "id": 11,
+    "title": "Advanced CSS Techniques",
+    "author": "Mike Johnson",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis mi felis, sed dictum velit vestibulum ac. Nam non tortor non sapien interdum euismod.",
+    "category": "CSS",
+    "price": 40
+    },
+    {
+    "id": 12,
+    "title": "Mastering JavaScript",
+    "author": "Tom Brown",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan erat quis nibh scelerisque, ac auctor elit dictum. Sed laoreet, lorem quis efficitur molestie, lorem ante dapibus mauris, eu pharetra risus sapien vitae magna.",
+    "category": "JavaScript",
+    "price": 60
+    },
+    {
+    "id": 13,
+    "title": "Designing User Interfaces",
+    "author": "Emily Davis",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. In malesuada eu ipsum at accumsan. Sed ullamcorper odio sit amet dolor lacinia bibendum.",
+    "category": "UX",
+    "price": 45
+    },
+    {
+    "id": 14,
+    "title": "HTML Best Practices",
+    "author": "Alex Rodriguez",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum scelerisque faucibus massa, id facilisis turpis. Suspendisse eget mi vel nisl commodo pellentesque.",
+    "category": "HTML",
+    "price": 25
+    },
+    {
+    "id": 15,
+    "title": "CSS Frameworks",
+    "author": "Mark Wilson",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in risus magna. Sed suscipit sapien quis arcu gravida, eu molestie elit tristique. Sed quis lectus euismod.",
+    "category":"CSS",
+    "price": 50
+    },
+    {
+    "id": 16,
+    "title": "Designing for Emotion",
+    "author": "Aaron Walter",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "UX",
+    "price": 45
+    },
+    {
+    "id": 17,
+    "title": "HTML5 Mastery",
+    "author": "Anselm Bradford",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "HTML",
+    "price": 30
+    },
+    {
+    "id": 18,
+    "title": "CSS3 for Web Designers",
+    "author": "Dan Cederholm",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CSS",
+    "price": 35
+    },
+    {
+    "id": 19,
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "JavaScript",
+    "price": 40
+    },
+    {
+    "id": 20,
+    "title": "The Elements of User Experience",
+    "author": "Jesse James Garrett",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "UX",
+    "price": 50
+    },
+    {
+    "id": 21,
+    "title": "HTML and CSS: Design and Build Websites",
+    "author": "Jon Duckett",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "HTML",
+    "price": 25
+    },
+    {
+    "id": 22,
+    "title": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
+    "author": "Lea Verou",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CSS",
+    "price": 55
+    },
+    {
+    "id": 23,
+    "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "JavaScript",
+    "price": 60
+    },
+    {
+    "id": 24,
+    "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+    "author": "Steve Krug",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "UX",
+    "price": 20
+    },
+    {
+    "id": 25,
+    "title": "Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+    "author": "Jennifer Niederst Robbins",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "HTML",
+    "price": 40
+    }
+
+]
