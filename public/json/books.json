@@ -6,7 +6,8 @@
     "author": "Jesse James Garrett",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "UX",
-    "price": 25
+    "price": 25,
+    "image":"book-images/african-lily-768.jpeg"
     },
     {
     "id": 2,
@@ -14,7 +15,8 @@
     "author": "Jeremy Keith",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "HTML",
-    "price": 18
+    "price": 18,
+    "image":"book-images/blowing-imitation-pearl-768.jpeg"
     },
     {
     "id": 3,
@@ -22,7 +24,8 @@
     "author": "Eric A. Meyer",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "CSS",
-    "price": 29
+    "price": 29,
+    "image":"book-images/braying-ass-caldecott-768.jpeg"
     },
     {
     "id": 4,
@@ -30,7 +33,8 @@
     "author": "Douglas Crockford",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "JavaScript",
-    "price": 32
+    "price": 32,
+    "image":"book-images/burnished-buff-tanager-768.jpeg"
     },
     {
     "id": 5,
@@ -38,7 +42,8 @@
     "author": "Steve Krug",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "UX",
-    "price": 22
+    "price": 22,
+    "image":"book-images/chaise-stayed-768.jpeg"
     },
     {
     "id": 6,
@@ -46,7 +51,8 @@
     "author": "Jon Duckett",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "HTML",
-    "price": 27
+    "price": 27,
+    "image":"book-images/coryphantha-echinus-768.jpeg"
     },
     {
     "id": 7,
@@ -54,7 +60,8 @@
     "author": "Lea Verou",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "CSS",
-    "price": 34
+    "price": 34,
+    "image":"book-images/dumb-maiden-768.jpeg"
     },
     {
     "id": 8,
@@ -62,7 +69,8 @@
     "author": "Marijn Haverbeke",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
     "category": "JavaScript",
-    "price": 59
+    "price": 59,
+    "image":"book-images/giant-strength-768.jpeg"
     },
     {
     "id": 9,
@@ -70,7 +78,8 @@
     "author": "John Doe",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et felis malesuada, malesuada dui eu, lacinia mauris. Suspendisse bibendum ullamcorper ex at luctus.",
     "category": "UX",
-    "price": 50
+    "price": 50,
+    "image":"book-images/hippeastrum-reginae-768.jpeg"
     },
     {
     "id": 10,
@@ -78,7 +87,8 @@
     "author": "Jane Smith",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat odio eu tortor bibendum ultrices. Mauris vulputate nisi eget aliquam fermentum.",
     "category": "HTML",
-    "price": 30
+    "price": 30,
+    "image":"book-images/hunting-feast-768.jpeg"
     },
     {
     "id": 11,
@@ -86,7 +96,8 @@
     "author": "Mike Johnson",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis mi felis, sed dictum velit vestibulum ac. Nam non tortor non sapien interdum euismod.",
     "category": "CSS",
-    "price": 40
+    "price": 40,
+    "image":"book-images/iris-susiana-redoute-768.jpeg"
     },
     {
     "id": 12,
@@ -94,7 +105,8 @@
     "author": "Tom Brown",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan erat quis nibh scelerisque, ac auctor elit dictum. Sed laoreet, lorem quis efficitur molestie, lorem ante dapibus mauris, eu pharetra risus sapien vitae magna.",
     "category": "JavaScript",
-    "price": 60
+    "price": 60,
+    "image":"book-images/king-birds-768.jpeg"
     },
     {
     "id": 13,
@@ -102,7 +114,8 @@
     "author": "Emily Davis",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. In malesuada eu ipsum at accumsan. Sed ullamcorper odio sit amet dolor lacinia bibendum.",
     "category": "UX",
-    "price": 45
+    "price": 45,
+    "image":"book-images/mandrillus-sphinx-768.jpeg"
     },
     {
     "id": 14,
@@ -110,7 +123,8 @@
     "author": "Alex Rodriguez",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum scelerisque faucibus massa, id facilisis turpis. Suspendisse eget mi vel nisl commodo pellentesque.",
     "category": "HTML",
-    "price": 25
+    "price": 25,
+    "image":"book-images/robin-sing-768.jpeg"
     },
     {
     "id": 15,
@@ -118,7 +132,8 @@
     "author": "Mark Wilson",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in risus magna. Sed suscipit sapien quis arcu gravida, eu molestie elit tristique. Sed quis lectus euismod.",
     "category":"CSS",
-    "price": 50
+    "price": 50,
+    "image":"book-images/siberian-musk-deer-sketch-768.jpeg"
     },
     {
     "id": 16,
@@ -126,7 +141,8 @@
     "author": "Aaron Walter",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "UX",
-    "price": 45
+    "price": 45,
+    "image":"book-images/skolj-castle-768.jpeg"
     },
     {
     "id": 17,
@@ -134,7 +150,8 @@
     "author": "Anselm Bradford",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "HTML",
-    "price": 30
+    "price": 30,
+    "image":"book-images/spring-lepere-768.jpeg"
     },
     {
     "id": 18,
@@ -142,7 +159,8 @@
     "author": "Dan Cederholm",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "CSS",
-    "price": 35
+    "price": 35,
+    "image":"book-images/stop-john-gilpin-768.jpeg"
     },
     {
     "id": 19,
@@ -150,7 +168,8 @@
     "author": "Douglas Crockford",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "JavaScript",
-    "price": 40
+    "price": 40,
+    "image":"book-images/street-smyrna-768.jpeg"
     },
     {
     "id": 20,
@@ -158,7 +177,8 @@
     "author": "Jesse James Garrett",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "UX",
-    "price": 50
+    "price": 50,
+    "image":"book-images/summer-lepere-768.jpeg"
     },
     {
     "id": 21,
@@ -166,7 +186,8 @@
     "author": "Jon Duckett",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "HTML",
-    "price": 25
+    "price": 25,
+    "image":"book-images/swans-deer-butterflies-768.jpeg"
     },
     {
     "id": 22,
@@ -174,7 +195,8 @@
     "author": "Lea Verou",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "CSS",
-    "price": 55
+    "price": 55,
+    "image":"book-images/village-balkans-edirne-768.jpeg"
     },
     {
     "id": 23,
@@ -182,7 +204,8 @@
     "author": "Marijn Haverbeke",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "JavaScript",
-    "price": 60
+    "price": 60,
+    "image":"book-images/virginian-opossum-768.jpeg"
     },
     {
     "id": 24,
@@ -190,7 +213,8 @@
     "author": "Steve Krug",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "UX",
-    "price": 20
+    "price": 20,
+    "image":"book-images/ballads-brittany-frontispiece-768.jpeg"
     },
     {
     "id": 25,
@@ -198,7 +222,8 @@
     "author": "Jennifer Niederst Robbins",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "HTML",
-    "price": 40
+    "price": 40,
+    "image":"book-images/church-san-domingo-768.jpeg"
     }
 
 ]
