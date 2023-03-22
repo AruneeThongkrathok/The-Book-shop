@@ -5,9 +5,11 @@ async function start(){
   let books = await getJSON('/json/books.json')
 
   displayBooks(books);
-  sortBooks(books, 'price-asc');
-  
-  
+  document.getElementById("sort-select").addEventListener("change", () => {
+    const sortBy = document.getElementById("sort-select").value;
+    sortBooks(books, sortBy);
+  });
+
 }
 
 function displayBooks(books){

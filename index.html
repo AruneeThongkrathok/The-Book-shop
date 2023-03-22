@@ -8,7 +8,17 @@
     <link rel="stylesheet" href="/style.scss" />
   </head>
   <body>
-    <header class="header"></header>
+    <header class="header">
+      <label for="sort-select">Sort by:</label>
+      <select id="sort-select">
+        <option value="title-asc">Title (A-Z)</option>
+        <option value="title-desc">Title (Z-A)</option>
+        <option value="price-asc">Price (Low to High)</option>
+        <option value="price-desc">Price (High to Low)</option>
+        <option value="author-asc">Author (A-Z)</option>
+        <option value="author-desc">Author (Z-A)</option>
+      </select>
+    </header>
     <main class="container"></main>
     <script type="module" src="/js/main.js"></script>
     <footer class="footer"></footer>
