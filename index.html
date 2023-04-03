@@ -10,8 +10,20 @@
       href="/node_modules/bootstrap/dist/css/bootstrap.min.css"
     />
   </head>
+
   <body>
     <header class="header">
+      <div class="row my-3">
+        <div class="col-md-12">
+          <input
+            type="text"
+            class="form-control"
+            placeholder="Search by category, author, or price"
+            id="book-filter"
+          />
+        </div>
+      </div>
+
       <label for="sort-select">Sort by:</label>
       <select id="sort-select" class="form-select">
         <option value="title-asc">Title (A-Z)</option>
@@ -22,6 +34,7 @@
         <option value="author-desc">Author (Z-A)</option>
       </select>
     </header>
+
     <main class="container"></main>
     <script type="module" src="/js/main.js"></script>
     <footer class="footer"></footer>
