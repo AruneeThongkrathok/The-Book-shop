@@ -10,6 +10,7 @@ export function filterBooks(books, searchText) {
       (book.price >= parseFloat(searchText.split("-")[0]) &&
         book.price <= parseFloat(searchText.split("-")[1]))
     );
+    
   });
 
   displayBooks(filteredBooks);
