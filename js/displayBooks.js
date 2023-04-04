@@ -11,7 +11,9 @@ export function displayBooks(books) {
       <div class="card-body">
         <h6 class="card-title">${book.title}</h6>
         <h6 class="card-author">Author: ${book.author}</h6>
-        <div class="card-price">Price: $${book.price}</div> 
+        <h6 class="card-author">Category: ${book.category}</h6>
+        <div class="card-price">Price: $${book.price}</div>
+        <button class="btn btn-primary buy-button" data-id="${book.id}">Buy</button> 
       </div>`;
       container.appendChild(bookElem);
   

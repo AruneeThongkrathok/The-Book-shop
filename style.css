@@ -11732,7 +11732,7 @@ textarea.form-control-lg {
 
 .card {
   width: 235px;
-  height: 550px;
+  height: 575px;
   display: inline-block;
   margin: 50px;
 }
@@ -11751,16 +11751,17 @@ textarea.form-control-lg {
 }
 
 .header {
-  padding: 1rem;
-  margin-top: 30px;
+  background-color: #cea8a8;
+  padding: 2rem;
+  margin-bottom: 2rem;
 }
 
-.form-select {
-  width: 150px;
+.header select {
+  margin-left: 1rem;
 }
 
-.form-control {
-  width: 300px;
+.header input {
+  margin-left: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -11768,10 +11769,12 @@ textarea.form-control-lg {
     flex-direction: column;
     align-items: flex-start;
   }
-  .form-select {
-    margin-bottom: 1rem;
+  .header select {
+    margin-top: 1rem;
+    margin-left: 0;
   }
-  .form-control {
-    margin-bottom: 1rem;
+  .header input {
+    margin-top: 1rem;
+    margin-left: 0;
   }
 }/*# sourceMappingURL=style.css.map */
