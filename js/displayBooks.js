@@ -9,7 +9,9 @@ export function displayBooks(books) {
       bookElem.innerHTML = `
       <img src="${book.image}" class="card-img-top" alt="${book.title}" data-id="${book.id}">
       <div class="card-body">
-        <h5 class="card-title">${book.title}</h5>
+        <h6 class="card-title">${book.title}</h6>
+        <h6 class="card-author">Author: ${book.author}</h6>
+        <div class="card-price">Price: $${book.price}</div> 
       </div>`;
       container.appendChild(bookElem);
   
