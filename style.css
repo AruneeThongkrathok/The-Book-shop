@@ -11777,4 +11777,12 @@ textarea.form-control-lg {
     margin-top: 1rem;
     margin-left: 0;
   }
+}
+.header button {
+  background-color: #ffffff; /* White background color */
+  color: #000000; /* Black text color */
+}
+
+.header button:hover {
+  background-color: #ccc; /* set background color on hover */
 }/*# sourceMappingURL=style.css.map */
