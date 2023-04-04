@@ -1,3 +1,5 @@
+import { addToShoppingCart } from "./addToShoppingCart";
+import { displayShoppingCart } from "./displayShoppingCart";
 
 export function displayBooks(books) {
     const container = document.querySelector(".container");
@@ -21,7 +23,7 @@ export function displayBooks(books) {
       buyButton.addEventListener("click", () => {
         const bookId = buyButton.dataset.id;
         const bookObj = books.find((book) => book.id === parseInt(bookId));
-        addToCart(bookObj);
+        addToShoppingCart(bookObj);
 
         alert(`${bookObj.title} has beed added to the cart!`);
       });
@@ -33,16 +35,5 @@ export function displayBooks(books) {
 
         alert(`Title: ${bookObj.title}\nAuthor: ${bookObj.author}\nCategory: ${bookObj.category}\nDescription: ${bookObj.description}\nPrice: $${bookObj.price}`);
       });
-    }
-
-    function addToCart (books){
-      let cart = []
-      cart.push(books)
-
-      let totalPrice = 0;
-      for (let i = 0; i < cart.length; i++) {
-      totalPrice += cart[i].price;
-      }
-
     }
   }
