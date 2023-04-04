@@ -1,19 +1,22 @@
 
-export function displayBooks(books){
-    let html = '';
-    for (let book of books){
-      html += `<div class="row book">
-        <div class="col-md-4">
-          <img src="${book.image}" class="img-fluid">
-        </div>
-        <div class="col-md-8">
-          <h3>${book.title}</h3>
-          <p>Author: ${book.author}</p>
-          <p>Price: ${book.price}</p>
-          <p>Category: ${book.category}</p>
-          <p>Description: ${book.description}</p>
-        </div>
-      </div>`
+export function displayBooks(books) {
+    const container = document.querySelector(".container");
+    container.innerHTML = "";
+    for (let i = 0; i < books.length; i++) {
+      const book = books[i];
+      const bookElem = document.createElement("div");
+      bookElem.classList.add("card");
+      bookElem.innerHTML = `
+        <img src="${book.image}" class="card-img-top" alt="${book.title}" data-id="${book.id}">`;
+      container.appendChild(bookElem);
+  
+      const bookImg = bookElem.querySelector("img");
+      bookImg.addEventListener("click", () => {
+        const bookId = bookImg.dataset.id;
+        const bookObj = books.find((book) => book.id === parseInt(bookId));
+        // Create a modal or a popup window to display the book information
+        // For example:
+        alert(`Title: ${bookObj.title}\nAuthor: ${bookObj.author}\nCategory: ${bookObj.category}\nDescription: ${bookObj.description}\nPrice: $${bookObj.price}`);
+      });
     }
-    document.querySelector('main').innerHTML = html;
   }

@@ -1,5 +1,4 @@
 import { displayBooks } from "./displayBooks";
-
 export function sortBooks(books, sortBy){
     if (sortBy === 'title-asc'){
       books.sort((a,b) => a.title.localeCompare(b.title));
