@@ -6,9 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:scss": "node-sass input.scss output.css",
+    "watch:scss": "node-sass -w input.scss output.css"
   },
   "devDependencies": {
+    "node-sass": "^9.0.0",
     "vite": "^4.2.0"
   },
   "dependencies": {

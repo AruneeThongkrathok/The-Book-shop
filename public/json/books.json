@@ -4,7 +4,7 @@
     "id": 1,
     "title": "Responsive design with Bootstrap",
     "author": "Jesse James Garrett",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "description": "Responsive design is a crucial concept in web development, ensuring that websites look and work well on all devices. One of the tools for this is Bootstrap, a handy framework made by Twitter. It helps developers create websites that adjust to different screen sizes smoothly. The special sauce in Bootstrap's responsive design is its grid system. Imagine a website as a puzzle made of rows and columns. Bootstrap's grid system makes it easy to arrange these rows and columns so that they look good on big desktops, laptops, tablets, and tiny smartphones. This system is built with mobiles in mind first, and it adds extra touches as the screen gets larger. Bootstrap comes with ready-to-use code bits that developers can attach to their webpage parts. These code bits are like magic spells that tell the parts how to act on different screens. For instance, if you want things to be organized in columns, you just add the right 'col' spell to them. This helps make complicated layouts simple to handle, no matter if someone is using a computer or a phone. Apart from the grid system, Bootstrap also gives out other special codes, like a set of tools. These tools help with things like making stuff appear or disappear on certain screens, adjusting spaces, and changing text sizes. So, developers can make sure their websites look cool everywhere. Bootstrap is like a box of building blocks for websites. It provides a bunch of pre-made parts, like navigation bars and picture sliders, that fit well together. The best part is that these parts are made to work on any device, big or small.",
     "category": "UX",
     "price": 25,
     "image":"book-images/african-lily-768.jpeg"
@@ -13,7 +13,7 @@
     "id": 2,
     "title": "HTML - an introduction",
     "author": "Jeremy Keith",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "description": "Hypertext Markup Language, or HTML, serves as a webpage's architectural framework. It instructs web browsers on how to position headings, paragraphs, images, and hyperlinks, providing organization and clarity to web content. Each time a webpage is accessed, HTML becomes active. It forms the foundational structure that harmonizes all elements and imparts meaning to the content. Through HTML, web developers construct web pages with coherent structures, catering to human users and computational systems.",
     "category": "HTML",
     "price": 18,
     "image":"book-images/blowing-imitation-pearl-768.jpeg"
@@ -22,7 +22,7 @@
     "id": 3,
     "title": "CSS - an introduction",
     "author": "Eric A. Meyer",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "description": "Cascading Style Sheets, or CSS, assumes the role of a fashion designer in the web world. It adds the artistic touch that enhances visual appeal. Like selecting garments and colors that enhance appearance, CSS empowers designers to choose fonts, colors, and layouts that transform websites into captivating digital spaces. CSS introduces colors, spacing, and designs that grab attention. This transformative element adds uniqueness and style to webpages. Whether buttons change colors on hover or text remains readable, CSS is responsible for these aesthetic enhancements.",
     "category": "CSS",
     "price": 29,
     "image":"book-images/braying-ass-caldecott-768.jpeg"
@@ -31,7 +31,7 @@
     "id": 4,
     "title": "JavaScript - an introduction",
     "author": "Douglas Crockford",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus tellus vel mi iaculis, quis bibendum tortor malesuada.",
+    "description": "JavaScript is a programming language. It functions as the enchanting wand of web development, driving dynamic functionality and interaction. It brings websites to life, enabling actions like button clicks and automatic refreshing.Developers use JavaScript to craft interactive components within websites, from pop-up windows to responsive forms and even browser-based games. While HTML constructs the framework and CSS enhances aesthetics, JavaScript injects excitement and dynamism, making websites not just usable but genuinely enjoyable.",
     "category": "JavaScript",
     "price": 32,
     "image":"book-images/burnished-buff-tanager-768.jpeg"
@@ -155,7 +155,7 @@
     },
     {
     "id": 18,
-    "title": "CSS3 for Web Designers",
+    "title": "CSS for Web Designers",
     "author": "Dan Cederholm",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "CSS",
@@ -209,16 +209,16 @@
     },
     {
     "id": 24,
-    "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+    "title": "A Common Sense Approach to Web Usability",
     "author": "Steve Krug",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "category": "UX",
+    "category": "JavaScript",
     "price": 20,
     "image":"book-images/ballads-brittany-frontispiece-768.jpeg"
     },
     {
     "id": 25,
-    "title": "Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+    "title": "Learning Web Design: A Beginner's Guide to HTML",
     "author": "Jennifer Niederst Robbins",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "category": "HTML",

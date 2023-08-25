@@ -6,12 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The Book Store</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="node_modules/bootstrap/dist/css/bootstrap.css"
+    />
   </head>
 
   <body>
     <header class="header">
-      <h1 class="text-center display-3 mb-5">The Book Shop</h1>
-      <div class="d-flex align-items-center justify-content-end">
+      <h1 class="text-left display-3 mb-5">The Book Shop</h1>
+      <div class="d-flex align-items-center justify-content-start">
         <div class="me-3">
           <label for="sort-select">Sort by:</label>
           <select id="sort-select" class="form-select">
@@ -32,7 +36,7 @@
             id="book-filter"
           />
         </div>
-        <button class="btn ms-3 cart-button">Cart</button>
+        <button class="btn cart-button">Cart</button>
       </div>
     </header>
 

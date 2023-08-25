@@ -27,42 +27,28 @@
     padding-top: 20px;
   }
 
-  .header {
+.header {
     background-color: #cea8a8;
     padding: 2rem;
     margin-bottom: 2rem;
-  }
+}
   
-  .header select {
+.header select {
     margin-left: 1rem;
-  }
+}
   
-  .header input {
+.header input {
     margin-left: 1rem;
-  }
-  
-  @media (max-width: 768px) {
-    .header {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-  
-    .header select {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  
-    .header input {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  }
+}
 
-  .header button {
-    background-color: #ffffff; /* White background color */
-    color: #000000; /* Black text color */
-  }
+.header button {
+    background-color: #ffffff; 
+    color: #000000;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
 
-  .header button:hover {
-    background-color: #ccc; /* set background color on hover */
-  }
+}
+
+.header button:hover {
+    background-color: #ccc; 
+}

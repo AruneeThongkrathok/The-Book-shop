@@ -1,4 +1,4 @@
-import { displayBooks } from "./displayBooks";
+import { displayBooks } from "./displaybooks";
 
 export function filterBooks(books, searchText) {
   let filteredBooks = books.filter((book) => {
